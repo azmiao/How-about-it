@@ -8,6 +8,7 @@ set "port=9876"
 
 echo ########################################
 echo           AZMIAO QSIGN DEAMON
+echo                  V1.1.9
 echo      Qsign API:http://!host!:!port!
 echo      TXlib_version:%txlib_version% 
 echo ########################################

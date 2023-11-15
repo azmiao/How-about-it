@@ -14,7 +14,7 @@
         "code": "4766"
     },
     "unidbg": {
-        "dynarmic": false,
+        "dynarmic": true,
         "unicorn": true,
         "kvm": false,
         "debug": false

@@ -14,7 +14,7 @@
         "code": "4330"
     },
     "unidbg": {
-        "dynarmic": false,
+        "dynarmic": true,
         "unicorn": true,
         "kvm": false,
         "debug": false

@@ -2,7 +2,7 @@
 title AZMIAO Qsign Deamon
 setlocal enabledelayedexpansion
 set JAVA_HOME=.\jre
-set "txlib_version=8.9.83"
+set "txlib_version=8.9.70"
 set "host=127.0.0.1"
 set "port=9876"
 
